@@ -1,16 +1,14 @@
-## Hi there 👋
+![Header Image](topimage.png)
 
-<!--
-**nickbattle1/nickbattle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nick 👋
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-battle1/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nick.battle7@hotmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am an engaging, confident, and highly motivated individual with career aspirations in software engineering and embedded systems. As a Technology & Software Architect, I have hands-on experience in full-stack web development, UX/UI design, and AI system development. I focus on building scalable and efficient software solutions that enhance both functionality and user experience. Currently pursuing a Master of Computer Science (Software Engineering), I am passionate about leveraging technology to drive innovation, solve complex challenges, and shape a more dynamic future at the intersection of creativity and technology.
+
+---
+
+## Repositories 
