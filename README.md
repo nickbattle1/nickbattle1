@@ -21,5 +21,5 @@ I am an engaging, confident, and highly motivated individual with career aspirat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="wireshark" width="45" height="45"/>
+  <img src="https://www.wireshark.org/assets/theme-2015/images/wireshark_logo.png" alt="wireshark" width="45" height="45"/>
 </p>
