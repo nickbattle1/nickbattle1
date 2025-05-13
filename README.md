@@ -3,6 +3,7 @@
 # Hi, I'm Nick 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-battle1/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nick.battle7@hotmail.com)
+[![Phone](https://img.shields.io/badge/Phone-Call_Me-green?style=for-the-badge&logo=whatsapp)](tel:+61481372320)
 
 ## About Me
 
