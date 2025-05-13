@@ -8,7 +8,7 @@
 
 I am an engaging, confident, and highly motivated individual with career aspirations in software engineering and embedded systems. As a Technology & Software Architect, I have hands-on experience in full-stack web development, UX/UI design, and AI system development. I focus on building scalable and efficient software solutions that enhance both functionality and user experience. Currently pursuing a Master of Computer Science (Software Engineering), I am passionate about leveraging emerging technologies to drive innovation, solve complex challenges, and shape a more dynamic future at the intersection of engineering and curiosity.
 
-Technologies and Tools I've Learned
+## Technologies and Tools I've Learned
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
